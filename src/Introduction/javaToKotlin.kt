@@ -1,3 +1,5 @@
+package Introduction
+
 class JavaCode {
     fun toJSON(collection: Collection<Int>): String {
         val sb = StringBuilder()
@@ -17,7 +19,7 @@ class JavaCode {
 
 /*
 This code is automatically converted to kotlin, by the IDE
-* public class JavaCode {
+* public class Introduction.JavaCode {
     public String toJSON(Collection<Integer> collection) {
         StringBuilder sb = new StringBuilder();
         sb.append("[");
